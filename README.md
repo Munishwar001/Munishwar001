@@ -32,7 +32,7 @@
     </button>
   </a>
 </li>
-
+ <hr/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munishwar001/Munishwar001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munishwar001/Munishwar001/output/github-snake.svg" />
