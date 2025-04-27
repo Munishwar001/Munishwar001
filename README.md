@@ -22,3 +22,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munishwar001&show_icons=true&locale=en&layout=compact" alt="munishwar001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munishwar001&" alt="munishwar001" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munishwar001/Munishwar001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munishwar001/Munishwar001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Munishwar001/Munishwar001/output/github-snake.svg" />
+</picture>
