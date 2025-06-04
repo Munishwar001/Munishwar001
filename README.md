@@ -22,7 +22,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munishwar001&" alt="Munishwar001" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munishwar001&show_icons=true&locale=en&layout=compact" alt="Munishwar001" /></p>
 <h2>✒️ Recent Posts</h2>
+<div>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="c" width="100" height="100" />
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="c" width="100" height="100" />
+  </div>
 <ul>
 <li>
   <a target="_blank" href="https://leetcode.com/u/kalramunishwar/" 
