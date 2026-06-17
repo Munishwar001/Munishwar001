@@ -1,6 +1,6 @@
 ![logo](https://github.com/Munishwar001/Munishwar001/blob/main/Screenshot%20(97).png)
 <h1>Welcome to my GitHub!</h1>
-<p>I'm Munishwar, a Junior .NET & Angular Full Stack Developer at WottaCore Digital Solutions, building scalable web applications.</p>
+<p>I'm Munishwar, a Full Stack Developer at WottaCore Digital Solutions, building scalable web applications.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
