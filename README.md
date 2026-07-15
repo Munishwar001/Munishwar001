@@ -28,6 +28,7 @@
 <div>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="c" width="100" height="100" />
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="c" width="100" height="100" />
+ <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="c" width="100" height="100" /> 
 <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="c" width="100" height="100" />
   </div>
 <ul>
